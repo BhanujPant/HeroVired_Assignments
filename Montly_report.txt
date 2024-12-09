@@ -1,0 +1,4 @@
+Monthly Sales Report
+====================
+Total Sales: 4265
+Average Sales: 213.25
